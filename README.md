@@ -25,6 +25,8 @@ Pretrained models in [here](https://console.cloud.google.com/storage/browser/vit
 - R50-ViT-B_16
 - R50-ViT-L_16
 
+This code is in [notebook](https://github.com/TooTouch/ViT_repo/blob/main/convert.ipynb).
+
 ```python
 from ViT.model import VisionTransformer, CONFIGS
 
