@@ -15,7 +15,8 @@ torchvision=0.8.0
 
 I will update other models ASAP.
 
-Pretrained models in [here](https://console.cloud.google.com/storage/browser/vit_models/imagenet21k?pageState=(%22StorageObjectListTable%22:(%22f%22:%22%255B%255D%22))&prefix=&forceOnObjectsSortingFiltering=false).
+- Pretrained models in [here](https://console.cloud.google.com/storage/browser/vit_models/imagenet21k?pageState=(%22StorageObjectListTable%22:(%22f%22:%22%255B%255D%22))&prefix=&forceOnObjectsSortingFiltering=false). 
+- Model settings and performances in [here](https://github.com/google-research/vision_transformer#available-vit-models)
 
 - ViT-B_16
 - ViT-B_32
