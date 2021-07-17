@@ -9,7 +9,7 @@ einops=0.3.0
 torch=1.7.0
 torchvision=0.8.0
 ```
-# Load a pretrained model
+# Load a Pretrained Model
 
 **Available Pretrained Models**
 
@@ -45,3 +45,7 @@ if args.vit_name.find('R50') != -1:
 model = VisionTransformer(config_vit, vis=True)
 model.load_from(config_vit)
 ```
+
+# Code Reference
+
+- https://github.com/Beckschen/TransUNet/tree/d68a53a2da73ecb496bb7585340eb660ecda1d59
